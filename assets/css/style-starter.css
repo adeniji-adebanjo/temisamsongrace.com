@@ -7348,7 +7348,7 @@ a.text-dark:hover, a.text-dark:focus {
   100% {
     transform: rotate(359deg); } }
 
-.fa-rotate-90 {
+/* .fa-rotate-90 {
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
   transform: rotate(90deg); }
 
@@ -7366,7 +7366,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .fa-flip-vertical {
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
-  transform: scale(1, -1); }
+  transform: scale(1, -1); } */
 
 :root .fa-rotate-90,
 :root .fa-rotate-180,
